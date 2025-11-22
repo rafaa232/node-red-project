@@ -1,2 +1,2 @@
 # node-red-project
-smart-waste-iot
+smart-waste-bin-iot
